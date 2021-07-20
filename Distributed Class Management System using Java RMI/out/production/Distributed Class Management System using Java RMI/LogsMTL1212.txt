@@ -1,0 +1,54 @@
+Jun. 13, 2021 6:49:50 P.M. ManagerClient main
+INFO: MTL1212 has logged onto the MTL Server
+Jun. 13, 2021 6:49:52 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to edit a Record
+Jun. 13, 2021 6:52:23 P.M. ManagerClient main
+INFO: MTL1212 has logged onto the MTL Server
+Jun. 13, 2021 6:52:26 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 displayed all Records
+Jun. 13, 2021 6:52:33 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to edit a Record
+Jun. 13, 2021 6:55:17 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to display a specific Record
+Jun. 13, 2021 6:55:42 P.M. ManagerClient main
+INFO: MTL1212 has logged onto the MTL Server
+Jun. 13, 2021 6:55:44 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to display a specific Record
+Jun. 13, 2021 7:03:03 P.M. ManagerClient main
+INFO: MTL1212 has logged onto the MTL Server
+Jun. 13, 2021 7:03:15 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to edit a Record
+Jun. 13, 2021 7:03:26 P.M. ManagerClient main
+INFO: MTL1212 has logged onto the MTL Server
+Jun. 13, 2021 7:03:28 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 displayed all Records
+Jun. 13, 2021 7:03:35 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to edit a Record
+Jun. 13, 2021 7:03:48 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to display a specific Record
+Jun. 13, 2021 7:04:01 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 displayed all Records
+Jun. 13, 2021 7:04:08 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to display a specific Record
+Jun. 13, 2021 7:04:29 P.M. ManagerClient main
+INFO: MTL1212 has logged onto the MTL Server
+Jun. 13, 2021 7:04:31 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to display a specific Record
+Jun. 13, 2021 7:04:44 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to display a specific Record
+Jun. 13, 2021 7:05:41 P.M. ManagerClient main
+INFO: MTL1212 has logged onto the MTL Server
+Jun. 13, 2021 7:05:42 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to edit a Record
+Jun. 13, 2021 7:05:53 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to display a specific Record
+Jun. 13, 2021 7:09:27 P.M. ManagerClient main
+INFO: MTL1212 has logged onto the MTL Server
+Jun. 13, 2021 7:09:30 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 displayed all Records
+Jun. 13, 2021 7:09:32 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to display a specific Record
+Jun. 13, 2021 7:09:43 P.M. ManagerClient main
+INFO: MTL1212 has logged onto the MTL Server
+Jun. 13, 2021 7:09:49 P.M. Clients.MTLClient run
+INFO: The Manager MTL1212 attempting to display a specific Record

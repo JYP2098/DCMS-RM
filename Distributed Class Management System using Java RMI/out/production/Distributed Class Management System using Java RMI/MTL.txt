@@ -1,0 +1,336 @@
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid last name
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status inserted
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10002
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10003
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid first name
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid last name
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid phone number
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid location inserted
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10002
+Jun. 13, 2021 6:49:50 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL0000 has failed at editing a record
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid last name
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status inserted
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10002
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10003
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid first name
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid last name
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid phone number
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid location inserted
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10002
+Jun. 13, 2021 6:52:23 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL0000 has failed at editing a record
+Jun. 13, 2021 6:52:26 P.M. ServerImplementation.MTLClass displayAllRecords
+INFO: MTL1212 has displayed all records
+Jun. 13, 2021 6:52:40 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL1212 edited a Teacher record ID:TR10000
+Jun. 13, 2021 6:55:19 P.M. ServerImplementation.MTLClass displayRecord
+INFO: TR10000 has failed at displaying a record
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid last name
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status inserted
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10002
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10003
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid first name
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid last name
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid phone number
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid location inserted
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10002
+Jun. 13, 2021 6:55:42 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL0000 has failed at editing a record
+Jun. 13, 2021 6:55:48 P.M. ServerImplementation.MTLClass displayRecord
+INFO: TR10000 has failed at displaying a record
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid last name
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status inserted
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10002
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10003
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid first name
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid last name
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid phone number
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid location inserted
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10002
+Jun. 13, 2021 7:03:03 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL0000 has failed at editing a record
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid last name
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status inserted
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10002
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10003
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid first name
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid last name
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid phone number
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid location inserted
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10002
+Jun. 13, 2021 7:03:26 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL0000 has failed at editing a record
+Jun. 13, 2021 7:03:28 P.M. ServerImplementation.MTLClass displayAllRecords
+INFO: MTL1212 has displayed all records
+Jun. 13, 2021 7:03:42 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL1212 edited a Teacher record ID:TR10000
+Jun. 13, 2021 7:03:51 P.M. ServerImplementation.MTLClass displayRecord
+INFO: TR10000 has failed at displaying a record
+Jun. 13, 2021 7:04:01 P.M. ServerImplementation.MTLClass displayAllRecords
+INFO: MTL1212 has displayed all records
+Jun. 13, 2021 7:04:12 P.M. ServerImplementation.MTLClass displayRecord
+INFO: TR10000 has failed at displaying a record
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid last name
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status inserted
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10002
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10003
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid first name
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid last name
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid phone number
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid location inserted
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10002
+Jun. 13, 2021 7:04:29 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL0000 has failed at editing a record
+Jun. 13, 2021 7:04:40 P.M. ServerImplementation.MTLClass displayRecord
+INFO: TR10000 has failed at displaying a record
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid last name
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status inserted
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10002
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10003
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid first name
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid last name
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid phone number
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid location inserted
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10002
+Jun. 13, 2021 7:05:41 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL0000 has failed at editing a record
+Jun. 13, 2021 7:05:50 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL1212 edited a Teacher record ID:TR10000
+Jun. 13, 2021 7:05:55 P.M. ServerImplementation.MTLClass displayRecord
+INFO: TR10000 has failed at displaying a record
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid last name
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status inserted
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10002
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10003
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid first name
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid last name
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid phone number
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid location inserted
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10002
+Jun. 13, 2021 7:09:28 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL0000 has failed at editing a record
+Jun. 13, 2021 7:09:30 P.M. ServerImplementation.MTLClass displayAllRecords
+INFO: MTL1212 has displayed all records
+Jun. 13, 2021 7:09:34 P.M. ServerImplementation.MTLClass displayRecord
+INFO: SR10002 has failed at displaying a record
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid last name
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status inserted
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10002
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 has failed in creating a student record invalid status date format
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10003
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid first name
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid last name
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid phone number
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 has failed in creating a teacher record invalid location inserted
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10002
+Jun. 13, 2021 7:09:43 P.M. ServerImplementation.MTLClass editRecord
+INFO: MTL0000 has failed at editing a record
+Jun. 13, 2021 7:09:52 P.M. ServerImplementation.MTLClass displayRecord
+INFO: SR10002 has failed at displaying a record

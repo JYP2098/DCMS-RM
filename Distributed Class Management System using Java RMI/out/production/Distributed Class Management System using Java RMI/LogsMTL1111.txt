@@ -1,0 +1,6 @@
+Jun. 13, 2021 7:18:23 P.M. ManagerClient main
+INFO: MTL1111 has logged onto the MTL Server
+Jun. 13, 2021 7:18:26 P.M. Clients.MTLClient run
+INFO: The Manager MTL1111 displayed all Records
+Jun. 13, 2021 7:18:30 P.M. Clients.MTLClient run
+INFO: The Manager MTL1111 attempting to display a specific Record

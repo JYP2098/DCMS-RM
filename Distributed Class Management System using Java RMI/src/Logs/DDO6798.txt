@@ -1,0 +1,4 @@
+Jun. 14, 2021 9:07:29 A.M. ManagerClient main
+INFO: DDO6798 has logged onto the DDO Server
+Jun. 14, 2021 9:07:31 A.M. Clients.DDOClient run
+INFO: The Manager DDO6798 displayed all Records

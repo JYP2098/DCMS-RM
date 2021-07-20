@@ -1,0 +1,4 @@
+Jun. 14, 2021 9:10:08 A.M. ManagerClient main
+INFO: LVL7656 has logged in the LVL Server
+Jun. 14, 2021 9:10:10 A.M. Clients.LVLClient run
+INFO: The Manager LVL7656 displayed all Records
